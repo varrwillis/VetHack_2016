@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetHack_2016", "VetHack_2016\VetHack_2016.csproj", "{FDC31E49-A657-4386-B1D6-29D548A737BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDC31E49-A657-4386-B1D6-29D548A737BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC31E49-A657-4386-B1D6-29D548A737BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC31E49-A657-4386-B1D6-29D548A737BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC31E49-A657-4386-B1D6-29D548A737BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

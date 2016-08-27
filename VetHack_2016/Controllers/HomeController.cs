@@ -15,7 +15,7 @@ namespace VetHack_2016.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "This is your application description page.";
 
             return View();
         }
